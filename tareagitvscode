@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Título de la pestaña</title>
+</head>
+
+<body>
+
+    <!-- Título principal -->
+    <h1>Aquí va el título</h1>
+
+    <!-- Subtítulo -->
+    <h2>Aquí va el subtítulo</h2>
+
+    <!-- Párrafo -->
+    <p>Aquí va el contenido del párrafo.</p>
+
+    <!-- Texto en negrita -->
+    <strong>Aquí va texto en negrita</strong>
+
+    <!-- Imagen -->
+    <img src="imagen.jpg" alt="Descripción de la imagen">
+
+    <!-- Enlace -->
+    <a href="https://www.google.com">Aquí va el enlace</a>
+
+    <!-- Lista -->
+    <ul>
+        <li>Primer elemento</li>
+        <li>Segundo elemento</li>
+    </ul>
+
+</body>
+
+</html>
